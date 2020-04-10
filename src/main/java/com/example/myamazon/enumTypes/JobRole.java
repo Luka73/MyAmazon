@@ -1,4 +1,4 @@
-package com.example.myamazon.enumType;
+package com.example.myamazon.enumTypes;
 
 public enum JobRole {
     AUTHOR,
